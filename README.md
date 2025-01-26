@@ -1,7 +1,6 @@
 # Sistem navigimi per te verberit (Blind Navigation Headset)
 
-
-![](images/artisticilustration1.webp)  |  ![](images/artisticilustration2.webp)
+![](images/artisticilustration1.png) ![](images/artisticilustration2.png)
 
 Ky projekt ka per qellim krijimin e "syzeve" apo paisjes qe vendoset ne koke, per persona te cilet kan humbur shikimin apo per navigim ne erresire.
 Kjo iniciative kerkon qe te krijohet paisje me nje strukture qe perbehet nga:
@@ -14,20 +13,24 @@ Kjo iniciative kerkon qe te krijohet paisje me nje strukture qe perbehet nga:
 Qellimi eshte te krijohet nje paisje e lire, funksionale, lehte e replikueshme.
 
 ### Helmeta apo kapela po "syzet" - trupi
-Ne helmete apo "syza" duhet te vendoset nje bateri e cila e furnizon me energji sistemin. 
+
+Ne helmete apo "syza" duhet te vendoset nje bateri e cila e furnizon me energji sistemin.
 Ky trup apo helmete apo "syza" duhet te jete sa me i lehte, qe te mund te perdoret per kohe ma te gjate.
 
 ### Mikrontrolleri
-Radar senzoret RD-03* perdorin UART komunikim, qe nenkupton serial komunikim. Motorret apo taptic engine perdor PWM output. 
-Tu i mar parasysh keto rrethana, nenkupton qe nji spekter i madh i mikrokontrollereve do te jete i pershtatshem per kete projekt. 
+
+Radar senzoret RD-03\* perdorin UART komunikim, qe nenkupton serial komunikim. Motorret apo taptic engine perdor PWM output.
+Tu i mar parasysh keto rrethana, nenkupton qe nji spekter i madh i mikrokontrollereve do te jete i pershtatshem per kete projekt.
 Idealja do te ishte nje FPGA chip, mirepo, FPGA kerkon aftesi apo pervoje me te madhe ne kete fushe.
 
 ### Vibruesit apo "taptic engine" per ndjeshmeri te ambientit.
-Keta jane motorre kinetik, te cilet permes intenzitetit transmetojne energji kinetike te ndryshme. 
+
+Keta jane motorre kinetik, te cilet permes intenzitetit transmetojne energji kinetike te ndryshme.
 Kjo energji kinetike apo vibruese do te sherbej qe permes kafkes se njeriut te "ndjehet" apo "shihet ambienti".
 Keta motorre do te kontrollohen permes PWM protokolllit, pinat te cilat e ja pin kete sherbim jane te ilustruar ne skemen per ESP32 me larte.
 
 ### Radari apo senzori i distances dhe kandit RD-03D apo RD-03E
+
 Ky eshte nji senzor i cili punon ne frekuence 26GHz dhe mundeson detektim preciz te objekteve ne kand prej 30 shkalle vertikalisht dhe 40 shkalle horizontalisht.
 Keta senzore jane aq preciz sa mund te matin te rrahurat e zemres ne largesi deri ne 4 metra ne zonen 60-90 te rrahura per minut.
 
@@ -43,5 +46,3 @@ Nderlidhjet fizike per te realizuar kete projekt:
 
 Do te ishte mire qe ky projekt gjithashtu te perfshin edhe Gyroscope dhe Accelerometer, mundesisht edhe Magnetometer, qe te perdoret per "Sensor Fusion" mundesi edhe me te avancuara.
 De te ishte mire qe ky projekt te permbaje gjithashtu edhe kamere, e cila permes "bone conducting" ndegjueseve te njoftoje shfrytezuesin me ze per ate qe kamera sheh permes AI intligjences artificiale.
-
-
