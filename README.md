@@ -1,6 +1,6 @@
 # Sistem navigimi per te verberit (Blind Navigation Headset)
 
-![](images/artisticilustration1.png | width=200) ![](images/artisticilustration2.png | width=200)
+![|200](images/artisticilustration1.png) ![|200](images/artisticilustration2.png)
 
 Ky projekt ka per qellim krijimin e "syzeve" apo paisjes qe vendoset ne koke, per persona te cilet kan humbur shikimin apo per navigim ne erresire.
 Kjo iniciative kerkon qe te krijohet paisje me nje strukture qe perbehet nga:
