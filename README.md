@@ -2,7 +2,7 @@
 
 ## (Blind Navigation Headset)
 
-<img src="images/artisticilustration1.png" alt="artistic presentation" width="320"> <img src="images/artisticilustration2.png" alt="artistic presentation" width="320">
+<img src="images/artisticilustration1.png" alt="artistic presentation" width="330"> <img src="images/artisticilustration2.png" alt="artistic presentation" width="330">
 
 Ky projekt ka per qellim krijimin e "syzeve" apo paisjes qe vendoset ne koke, per persona te cilet kan humbur shikimin apo per navigim ne erresire.
 Kjo iniciative kerkon qe te krijohet paisje me nje strukture qe perbehet nga:
