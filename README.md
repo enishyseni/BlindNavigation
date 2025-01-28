@@ -35,6 +35,8 @@ Keta jane motorre kinetik, te cilet permes intenzitetit transmetojne energji kin
 Kjo energji kinetike apo vibruese do te sherbej qe permes kafkes se njeriut te "ndjehet" apo "shihet ambienti".
 Keta motorre do te kontrollohen permes PWM protokolllit, pinat te cilat e ja pin kete sherbim jane te ilustruar ne skemen per ESP32 me larte.
 
+<img src="images/vibmotor.png" width="330"> <img src="images/tapticengine.png" width="330">
+
 ### Radari apo senzori i distances dhe kandit RD-03D apo RD-03E
 
 Ky eshte nji senzor i cili punon ne frekuence 24GHz K-band dhe mundeson detektim preciz te objekteve ne kand prej 30 shkalle vertikalisht dhe 60 shkalle horizontalisht.
